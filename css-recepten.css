@@ -1,0 +1,11 @@
+body{
+	background-image: url("pizza-background.jpg");
+	background-attachment: fixed;
+	color: blue;
+}
+
+li {
+	background-color: #ddd;
+	width: 30%;
+	font-family: "arial";
+}
